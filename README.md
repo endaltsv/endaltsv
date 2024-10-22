@@ -31,5 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+</div>
 </div>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=endaltsv&show_icons=true&locale=en&layout=compact" alt="endaltsv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endaltsv&" alt="endaltsv" /></p>
