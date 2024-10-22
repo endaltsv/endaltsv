@@ -1,9 +1,9 @@
 <div align="center" style="display:flex; align-items:center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=endaltsv&show_icons=true&locale=en&layout=compact" alt="endaltsv" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=endaltsv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="endaltsv" />
 </div>
 <br>
 <div align="center" style="display:flex; align-items:center;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endaltsv&" alt="endaltsv" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endaltsv&theme=tokyonight" alt="endaltsv" />
 </div>
 
 
